@@ -7,8 +7,8 @@ ADD COMMAND
 - cli3 a
 
 FIND COMMAND | name can be firstname or lastname 
-- cli3 find <name>  
-- cli3 f <name> 
+- cli3 find name 
+- cli3 f name
   
 UPDATE COMMAND
 - cli3 update <_id>
